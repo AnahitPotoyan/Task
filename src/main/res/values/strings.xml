@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="about">The cat is a small carnivorous mammal. It is often referred to as a domestic cat to distinguish it from its wild relatives such as tiger, lion, and other species in the …</string>
+<string name="owner">My Cat Profile</string>
+    <string name="username">jennifer83</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="followersnum">768</string>
+    <string name="followingnum">34</string>
+</resources>
